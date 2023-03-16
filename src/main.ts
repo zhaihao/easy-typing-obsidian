@@ -7,7 +7,7 @@ import { posToOffset, offsetToPos, ruleStringList2RuleList, getTypeStrOfTransac 
 import { LineFormater, getPosLineType, getPosLineType2, LineType } from './core'
 import { syntaxTree } from "@codemirror/language";
 import { Platform } from "obsidian";
-import fs from 'fs';
+import * as fs from 'fs'
 
 export default class EasyTypingPlugin extends Plugin {
 	settings: EasyTypingSettings;

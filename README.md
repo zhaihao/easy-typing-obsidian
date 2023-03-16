@@ -2,6 +2,10 @@
 <h1 align="center">Obsidian Easy Typing</h1>
 <div align="center">
 
+```bash
+git remote add upstream git@github.com:Yaozhuwa/easy-typing-obsidian.git
+```
+
 ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22easy-typing-obsidian%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json) ![latest download](https://img.shields.io/github/downloads/Yaozhuwa/easy-typing-obsidian/latest/total?style=plastic)
 
 [[中文](https://github.com/Yaozhuwa/easy-typing-obsidian/blob/master/README_ZH.md) | English]
